@@ -1,0 +1,13 @@
+📄 PDF Toolkit
+
+PDF Toolkit is a modern frontend app built with React, TypeScript, and Vite. 
+It allows you to merge, split, compress, and preview PDF files directly in 
+the browser with a clean, responsive UI. Fast, secure, and fully client-side — no server required.
+
+⚡ Tech Stack
+
+React – UI framework
+
+TypeScript – Type-safe development
+
+Vite – Lightning-fast build tool
